@@ -1,7 +1,5 @@
 import sys
-# import oauth2 as oauth
-# from urllib2 import urlopen
-# import json
+
 
 
 file = open(' ') # Enter the text file with the list of words and ratings here
